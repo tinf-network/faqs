@@ -1,0 +1,6 @@
+- [Allgemeines zum Studium](allgemein.md)
+- [Klausuren](prüfungen/klausuren.md)
+- [Projektarbeiten](prüfungen/projektarbeiten.md)
+- [Studienarbeiten](prüfungen/studienarbeiten.md)
+- [Software Engineering (Prof. Berkling)](fächer/se-berkling.md)
+- [Bei den FAQs mitwirken](faq-bot.md)
